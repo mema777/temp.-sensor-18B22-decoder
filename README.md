@@ -1,0 +1,2 @@
+# temp.-sensor-18B22-decoder
+This is universal library to decoding data from 18b20 sensor to celsius degrees in double vatiable format with 0.0625 °C precision. The library is not working with any hardware but only convert data from sensor to degrees. If You want to use this library to communication with 18b20 sensor You need another have library whitch work with OneWire protocol and retuned data in integer variable. With this variable will worked this 18b20 library. This library is written in c++. Sorry for my bad english.
